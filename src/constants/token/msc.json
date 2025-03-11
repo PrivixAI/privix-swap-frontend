@@ -1,0 +1,28 @@
+{
+  "name": "MSC",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+      "major": 1,
+      "minor": 3,
+      "patch": 1
+  },
+  "tags": {},
+  "tokens": [
+      {
+          "name": "Wrapped PRIVIX",
+          "symbol": "WPRIVIX",
+          "address": "0x0863c36D0f7ce3f0Dd2Cd52846D7ad6d99a49FC3",
+          "chainId": 16969696,
+          "decimals": 18,
+          "logoURI": "https://i.postimg.cc/N0nbq1hv/WPRIVIX-COIN.png"
+      },
+      {
+        "name": "Privix Stable Coin",
+        "symbol": "PriUSD",
+        "address": "0xE5875a733FE722A3F03BB51f44a81f26E27a7861",
+        "chainId": 16969696,
+        "decimals": 18,
+        "logoURI": "https://i.postimg.cc/8PbkCWs0/37d6c234-d41f-43ea-b3b1-9ad792ff6f02.jpg"
+    }
+  ]
+}
